@@ -1,0 +1,8 @@
+{
+	"appId": "com.sae.handlingapp",
+	"appName": "HandlingApp",
+	"webDir": "www",
+	"server": {
+		"androidScheme": "https"
+	}
+}

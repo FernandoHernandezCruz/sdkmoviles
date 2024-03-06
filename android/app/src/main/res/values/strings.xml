@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HandlingApp</string>
+    <string name="title_activity_main">HandlingApp</string>
+    <string name="package_name">com.sae.handlingapp</string>
+    <string name="custom_url_scheme">com.sae.handlingapp</string>
+</resources>
